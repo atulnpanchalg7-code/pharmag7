@@ -1,0 +1,9 @@
+{
+  "name": "pharmag7",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PHARMA-G7 Smart Online Pharmacy academic prototype",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
